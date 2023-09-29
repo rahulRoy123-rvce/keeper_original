@@ -6,7 +6,7 @@ function Header() {
   return (
     <header>
       {/* <HighlightIcon /> */}
-      <h1>Today's Time Table</h1>
+      <h1>To Do List</h1>
     </header>
   );
 }
